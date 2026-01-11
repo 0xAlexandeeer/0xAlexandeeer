@@ -80,9 +80,8 @@ Desarrollarme en roles de <strong>IT Support</strong> o <strong>Analista de Dato
   <a href="https://www.linkedin.com/in/alexander-penaloza-huaman-58b571244/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
+  <img width="20" />
+  <a href="https://www.credly.com/users/bryan-alexander-penaloza-huaman/badges" target="_blank">
+    <img src="https://img.shields.io/badge/Credly-Badges-orange" height="40" alt="Credly Badges" />
+  </a>
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xAlexandeeer/0xAlexandeeer/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xAlexandeeer/0xAlexandeeer/output/pacman-contribution-graph.svg">
-</picture>
